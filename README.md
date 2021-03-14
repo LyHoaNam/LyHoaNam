@@ -14,3 +14,4 @@ BIO
 - ⚡️ Fun fact: life is Hakuna Matata 🙌    
    
 <img src="https://github-readme-stats.vercel.app/api?username=lyhoanam&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://64.media.tumblr.com/a7dfa407524226bbd13bdd7779afa736/tumblr_n099u7EkZm1rclzfvo1_500.gif" style="float: right" />
