@@ -4,7 +4,7 @@ I'm a Front-end Developer working in HoChiMinh city, VietNam.
 
 BIO
 - 🏢 I'm currently working at [Teqnological company](https://teqnological.asia/)   
-- ⚙️ I use daily: ```.js```, ```.jsx```, ```.vue```, ````.html```, ```.css```, ```.scss```       
+- ⚙️ I use daily: ```.js```, ```.jsx```, ```.vue```, ```.html```, ```.css```, ```.scss```       
 - 🌍 I'm most active with Reactjs, Vuejs, Nuxtjs   
 - 💅 Sometimes I design branding, UI, and painting [my behance](https://www.behance.net/lyhoanam0321)    
 - 🌱 Learning all about Open Source    
