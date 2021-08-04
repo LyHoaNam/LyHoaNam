@@ -10,7 +10,7 @@ BIO
 - 🌱 Learning all about Open Source    
 - 💬 Ping me about development, coding, front-end, js, design, branding     
 - ⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.1 (year)     
-- 📫 Reach me: [twitter](https://twitter.com/nam64756149) [facebook](https://www.facebook.com/hoanam.ly/)    
+- 📫 Reach me: [facebook](https://www.facebook.com/hoanam.ly/)    
 - ⚡️ Fun fact: life is Hakuna Matata 🙌    
      
 <code>
