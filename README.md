@@ -10,7 +10,7 @@ BIO
 - 🌱 Learning all about Open Source    
 - 💬 Ping me about development, coding, front-end, js, design, branding     
 - ⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 2 (year)     
-- 📫 Reach me: lyhoanam@gmail.com  
+- 📫 Reach me: lyhoanam@gmail.com  [linkedin](https://www.linkedin.com/in/nam-ly-587130208/)
 - ⚡️ Fun fact: life is Hakuna Matata 🙌    
      
 <code>
