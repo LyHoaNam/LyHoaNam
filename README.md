@@ -9,8 +9,8 @@ BIO
 - 💅 Sometimes I design branding, UI, and painting [my behance](https://www.behance.net/lyhoanam0321)    
 - 🌱 Learning all about Open Source    
 - 💬 Ping me about development, coding, front-end, js, design, branding     
-- ⏳ Year progress { █████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 1.1 (year)     
-- 📫 Reach me: [facebook](https://www.facebook.com/hoanam.ly/)    
+- ⏳ Year progress { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 2 (year)     
+- 📫 Reach me: lyhoanam@gmail.com  
 - ⚡️ Fun fact: life is Hakuna Matata 🙌    
      
 <code>
